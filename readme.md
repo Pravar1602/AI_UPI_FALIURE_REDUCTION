@@ -15,7 +15,7 @@ This project aims to reduce UPI payment failures by analyzing 10,000+ user revie
 
 ##  How to Run Locally
 1. Clone this repository:
-   `git clone https://github.com/yourusername/ai-upi-failure-reduction.git`
+   `git clone https://github.com/Pravar1602/ai-upi-failure-reduction.git`
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Generate synthetic data:
